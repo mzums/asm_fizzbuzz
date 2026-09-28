@@ -1,0 +1,4 @@
+*       # everything
+!*/     # folders
+!*.*    # files with format
+*.o     # .o files
